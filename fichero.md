@@ -10,3 +10,12 @@ Aquí enlazamos a la [web de google](http://www.google.com)
 
 Aquí incluimos una imagen
 ![imagen](https://github.com/dcarmor99/Test/blob/main/champi.png)
+
+
+Y aquí terminamos poniendo una tabla:
+
+dog | bird  | cat
+:-- | :--:  | --:
+foo | foo   | foo
+bar | bar   | bar
+baz | baz   | baz
