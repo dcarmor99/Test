@@ -21,7 +21,7 @@ bar | bar   | bar
 baz | baz   | baz
 
 | Left align | Right align | Center align |
-|------------|-------------|--------------|
+|:------------|-------------:|:--------------:|
 | This       |        This |     this     |
 | Column     |      column |    column    |
 | Will       |        will |     will     |
