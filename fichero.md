@@ -19,3 +19,12 @@ dog | bird  | cat
 foo | foo   | foo
 bar | bar   | bar
 baz | baz   | baz
+
+| Left align | Right align | Center align |
+|------------|-------------|--------------|
+| This       |        This |     this     |
+| Column     |      column |    column    |
+| Will       |        will |     will     |
+| Be         |          be |      be      |
+| Left       |       right |    center    |
+| Aligned    |     aligned |    aligned   |
