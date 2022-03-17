@@ -1,4 +1,4 @@
-#El titulo
+# El titulo
 
 Esto es un ejemplo de archivo que incluye tipografías, formatos, etc usando el lenguaje Markdown
 
